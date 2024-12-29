@@ -5,7 +5,7 @@ This repository contains `RAHAMAN NAGIUR` resume and CV in LaTeX, tailored for d
 ## Structure
 
 - **`common/`:** Shared content.
-- **`master-cv/`:** Master's application.
+- **`academic-cv/`:** Master's application.
 - **`ml-resume/`:** Machine Learning Engineer.
 - **`backend-resume/`:** Backend Engineer.
 - **`frontend-resume/`:** Frontend Engineer.
@@ -20,8 +20,8 @@ Resume-CV/
 │   ├── skills.tex
 │   ├── publications.bib
 │   └── style.sty
-├── master-cv/
-│   ├── cv-master.tex
+├── academic-cv/
+│   ├── cv-academic.tex
 │   └── references.bib
 ├── ml-resume/
 │   ├── resume-ml.tex
