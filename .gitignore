@@ -1,4 +1,7 @@
 /drafts
+.DS_Store
+/.DS_Store
+../.DS_Store
 
 *.aux
 *.log
@@ -13,3 +16,4 @@
 *.lot
 *.gz
 *.bak
+05. Academic: Updated
